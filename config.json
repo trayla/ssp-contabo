@@ -1,0 +1,45 @@
+{
+  "clientId": "...",
+  "clientSecret": "...",
+  "apiUser": "...",
+  "apiPassword": "...",
+  "instancePassword": "...",
+  "hosts": [
+    {
+      "hostname": "console",
+      "role": "console",
+      "instanceId": "...",
+      "internalIp": "..."
+    },
+    {
+      "hostname": "controlplane01",
+      "role": "kubecontrolplane",
+      "instanceId": "...",
+      "internalIp": "..."
+    },
+    {
+      "hostname": "worker01",
+      "role": "kubeworker",
+      "instanceId": "...",
+      "internalIp": "..."
+    },
+    {
+      "hostname": "worker02",
+      "role": "kubeworker",
+      "instanceId": "...",
+      "internalIp": "..."
+    },
+    {
+      "hostname": "worker03",
+      "role": "kubeworker",
+      "instanceId": "...",
+      "internalIp": "..."
+    },
+    {
+      "hostname": "mongodb",
+      "role": "mongodb",
+      "instanceId": "...",
+      "internalIp": "..."
+    }
+  ]
+}
