@@ -1,6 +1,6 @@
 # Introduction
 
-[Contabo](https://contabo.com) is a German hoster with a good product portfolio that can be used through a well designed API. The best point is that all this comes for a very good price. In addition to my [bare metal based Single Server Platform](https://github.com/trayla/ssp) I decided to port this also to Contabo. This script deploys some virtual machines (instances) in a private network mainly as a base for my [Trayla Operations Platform Platform](https://github.com/trayla/top) but it maybe useful in other cases.
+[Contabo](https://contabo.com) is a Germany hoster with a good product portfolio that can be used through a well designed API. The best point is that all this comes for a very good price. In addition to my [bare metal based Single Server Platform](https://github.com/trayla/ssp) I decided to port this also to Contabo. This script deploys some virtual machines (instances) in a private network mainly as a base for my [Trayla Operations Platform Platform](https://github.com/trayla/top) but it maybe useful in other cases.
 
 # Installation
 
