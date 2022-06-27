@@ -19,7 +19,7 @@ Clone this repository on any local Ubuntu 20.04 console machine
 git clone https://github.com/trayla/ssp-contabo
 ```
 
-Make changes to the config.json template according to your environment. Put the private IP addresses for each instance along with the [Contabo API credentials])https://my.contabo.com/api/details) into this file!
+Make changes to the config.json template according to your environment. Put the private IP addresses for each instance along with the [Contabo API credentials](https://my.contabo.com/api/details) into this file!
 
 Start the script:
 ```
